@@ -33,7 +33,6 @@ const App = () => {
   return (
     <div data-theme={theme}>
       <Navbar />
-      <SignUpPage />
       <Routes>
         <Route
           path="/"
